@@ -1,5 +1,4 @@
 # akhali-varianti
- 
 ## 🎨 **Updated Frontend Components**
 
 ### 📄 `frontend/styles/globals.css`

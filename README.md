@@ -1,7 +1,3 @@
-# akhali-varianti
-## 🎨 **Updated Frontend Components**
-
-### 📄 `frontend/styles/globals.css`
 ```css
 @tailwind base;
 @tailwind components;
@@ -716,4 +712,3 @@ export default function Dashboard() {
 - Mobile-first approach
 - Smooth sidebar transitions
 - Adaptive layouts
-
